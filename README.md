@@ -17,5 +17,5 @@ java Reversi
 ```
 
 <p align="center">
-  <img src="https://github.com/oliver7011/Reversi/blob/main/Capture.PNG" height="450" width="450"><img src="https://github.com/oliver7011/Reversi/blob/main/game.PNG" height="450" width="450">
+  <img src="https://github.com/oliver7011/Reversi/blob/main/Capture.PNG" height="420" width="420"><img src="https://github.com/oliver7011/Reversi/blob/main/game.PNG" height="420" width="420">
 </p>
