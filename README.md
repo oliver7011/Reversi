@@ -16,6 +16,6 @@ javac Reversi.java
 java Reversi
 ```
 
-<p>
+<p align="center">
   <img src="https://github.com/oliver7011/Reversi/blob/main/Capture.PNG" height="450" width="450"><img src="https://github.com/oliver7011/Reversi/blob/main/game.PNG" height="450" width="450">
 </p>
