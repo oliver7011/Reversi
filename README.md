@@ -1,5 +1,6 @@
 # Reversi Java Project with GUI:
 
+Object-Oriented Reversi game with save/load functionality.
 
 ## Usage
 ```shell
