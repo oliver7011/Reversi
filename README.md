@@ -2,6 +2,12 @@
 
 Object-Oriented Reversi game with save/load functionality.
 
+Features:
+- Save/Load from text file
+- GUI
+- Game dynamically adjust to size of board chosen by user
+- Ability to announce invalid/valid moves
+
 ## Usage
 ```shell
 javac Reversi.java
